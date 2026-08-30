@@ -1,0 +1,68 @@
+about:
+  description: An RSS/Atom feed reader for text terminals
+  license: MIT
+  homepage: https://newsboat.org/
+  head: 1ee1e83
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-30T05:15:57Z
+timeline:
+  created: 2017-09-17
+  lastCommit: 2026-08-21
+  lastRelease: ?
+popularity:
+  star: 3888
+  watcher: 41
+  fork: 253
+  release: 0
+  contributor: 205
+  pullRequest: 250
+  issue: 1308
+language:
+  C++: 1735489
+  Rust: 519185
+  Shell: 26512
+  Dockerfile: 22184
+  Makefile: 18185
+  Ruby: 10679
+  Python: 8744
+  Clojure: 2449
+  PHP: 2237
+  Scala: 1930
+  Perl: 1775
+  XSLT: 894
+  C: 431
+totalLine: 2350694
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 1
+    openPR: 7
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 36
+    openPR: 10
+    closedIssue: 4
+    openIssue: 8
+    commit: 47
+  last180d:
+    since: 2026-03-03
+    release: 0
+    mergedPR: 76
+    openPR: 11
+    closedIssue: 18
+    openIssue: 17
+    commit: 129
+  last360d:
+    since: 2025-09-04
+    release: 0
+    mergedPR: 156
+    openPR: 14
+    closedIssue: 36
+    openIssue: 38
+    commit: 232
