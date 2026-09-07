@@ -5,7 +5,7 @@ about:
   head: 0cf2050
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:26:16Z
+  collectedAt: 2026-09-07T18:59:50Z
 timeline:
   created: 2017-09-17
   lastCommit: 2026-09-05
@@ -91,7 +91,7 @@ total:
   commit: 8965
 ---
 path: /home/runner/.x-repo/github.com/newsboat/newsboat
-collectedAt: 2026-09-07T05:26:19Z
+collectedAt: 2026-09-07T18:59:54Z
 loc:
   Cpp:
     code: 56196
@@ -310,7 +310,7 @@ checks:
       - 'Info:   0 out of   8 containerImage dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:26:20+00:00
+  collectedAt: 2026-09-07T18:59:54+00:00
   platform:
     darwin/arm64:
       name:  null
