@@ -12,29 +12,7 @@ An RSS/Atom feed reader for text terminals
 x install newsboat
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/newsboat/newsboat>
-- **Homepage**: <https://newsboat.org/>
-- **License**: MIT
-
-## Popularity
-
-- **Stars**: 3,903 · **Forks**: 255 · **Open issues**: 1,308 · **Contributors**: 205
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 1870 · **Open PRs**: 22 · **Closed issues**: 920 · **Open issues**: 388 · **Commits**: 8965
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 5 | 7 | 0 | 0 | 6 |
-| 90d | 2026-06-12 | 0 | 31 | 11 | 3 | 7 | 42 |
-| 360d | 2025-09-15 | 0 | 151 | 15 | 36 | 35 | 235 |
-
-## Code size
+## Code insight
 
 Total: **110,734** lines of code across **428** files in the top 5 languages.
 
@@ -56,13 +34,56 @@ Lowest-scoring checks:
 - **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## Source
+
+- **Upstream**: <https://github.com/newsboat/newsboat>
+- **Homepage**: <https://newsboat.org/>
+- **License**: MIT
+
+## Popularity
+
+- **Stars**: 3,902 · **Forks**: 255 · **Open issues**: 1,308 · **Contributors**: 205
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 1870 · **Open PRs**: 22 · **Closed issues**: 920 · **Open issues**: 388 · **Commits**: 8965
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 5 | 7 | 0 | 0 | 6 |
+| last60d | 2026-07-12 | 0 | 17 | 8 | 0 | 3 | 18 |
+| 90d | 2026-06-12 | 0 | 31 | 11 | 3 | 7 | 42 |
+| last180d | 2026-03-14 | 0 | 70 | 12 | 18 | 16 | 125 |
+| 360d | 2025-09-15 | 0 | 151 | 15 | 36 | 35 | 235 |
+| last720d | 2024-09-20 | 0 | 359 | 19 | 74 | 66 | 978 |
+
+## Distribution status
+
+Reported by **131** distros on [repology.org](https://repology.org/project/newsboat). **32** are ✅ on the latest upstream release, **78** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.44` | ✅ latest |
+| Debian 14 | `2.44` | ✅ latest |
+| Debian 13 | `2.36` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
+| Arch | `2.44` | ✅ latest |
+| Homebrew | `2.44` | ✅ latest |
+| Fedora rawhide | `2.44` | ✅ latest |
+| Nix unstable | `2.44` | ✅ latest |
+| Void | `2.44` | ✅ latest |
+| Alpine edge | `2.43` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.44` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `newsboat` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/newsboat.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/newsboat.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:44:58Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:32:01Z._
