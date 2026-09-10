@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,902 · **Forks**: 255 · **Open issues**: 1,308 · **Contributors**: 205
+- **Stars**: 3,903 · **Forks**: 255 · **Open issues**: 1,308 · **Contributors**: 205
 
 ## Totals (cumulative)
 
@@ -86,4 +86,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:32:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:12:59Z._
