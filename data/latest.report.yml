@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:31:52Z
+  collectedAt: 2026-09-10T23:12:50Z
 timeline:
   created: 2017-09-17
   lastCommit: 2026-09-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 3902
+  star: 3903
   watcher: 41
   fork: 255
   release: 0
@@ -95,7 +95,7 @@ total:
   commit: 8965
 ---
 path: /home/runner/.x-repo/github.com/newsboat/newsboat
-collectedAt: 2026-09-10T20:31:56Z
+collectedAt: 2026-09-10T23:12:54Z
 loc:
   Cpp:
     code: 56196
