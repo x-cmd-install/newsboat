@@ -14,11 +14,11 @@ x install newsboat
 
 ## Code insight
 
-Total: **110,734** lines of code across **428** files in the top 5 languages.
+Total: **110,743** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 56,196 | 1,836 | 9,455 | 178 |
+| Cpp | 56,205 | 1,847 | 9,457 | 178 |
 | CppHeader | 31,068 | 5,868 | 6,290 | 3 |
 | Rust | 12,366 | 543 | 2,214 | 94 |
 | CHeader | 5,809 | 518 | 1,727 | 135 |
@@ -42,40 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,905 · **Forks**: 254 · **Open issues**: 1,309 · **Contributors**: 205
+- **Stars**: 3,908 · **Forks**: 254 · **Open issues**: 1,309 · **Contributors**: 205
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1870 · **Open PRs**: 24 · **Closed issues**: 920 · **Open issues**: 389 · **Commits**: 8965
+- **Releases**: 0 · **Merged PRs**: 1872 · **Open PRs**: 25 · **Closed issues**: 920 · **Open issues**: 389 · **Commits**: 8971
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 5 | 9 | 0 | 1 | 6 |
-| last60d | 2026-07-15 | 0 | 16 | 10 | 0 | 4 | 18 |
-| 90d | 2026-06-15 | 0 | 28 | 12 | 3 | 8 | 42 |
-| last180d | 2026-03-17 | 0 | 70 | 14 | 18 | 17 | 125 |
-| 360d | 2025-09-18 | 0 | 151 | 17 | 36 | 36 | 235 |
-| last720d | 2024-09-23 | 0 | 358 | 21 | 74 | 67 | 970 |
-
-## Distribution status
-
-Reported by **131** distros on [repology.org](https://repology.org/project/newsboat). **32** are ✅ on the latest upstream release, **78** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.44` | ✅ latest |
-| Debian 14 | `2.44` | ✅ latest |
-| Debian 13 | `2.36` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
-| Arch | `2.44` | ✅ latest |
-| Homebrew | `2.44` | ✅ latest |
-| Fedora rawhide | `2.44` | ✅ latest |
-| Nix unstable | `2.44` | ✅ latest |
-| Void | `2.44` | ✅ latest |
-| Alpine edge | `2.43` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.44` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 6 | 10 | 0 | 1 | 8 |
+| last60d | 2026-07-16 | 0 | 18 | 11 | 0 | 4 | 17 |
+| 90d | 2026-06-16 | 0 | 30 | 13 | 3 | 8 | 37 |
+| last180d | 2026-03-18 | 0 | 71 | 15 | 18 | 17 | 121 |
+| 360d | 2025-09-19 | 0 | 153 | 18 | 36 | 36 | 226 |
+| last720d | 2024-09-24 | 0 | 359 | 22 | 73 | 67 | 976 |
 
 ## Improve this data
 
@@ -86,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:44:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:51:25Z._
