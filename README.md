@@ -26,12 +26,12 @@ Total: **110,743** lines of code across **428** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 6 | 10 | 0 | 1 | 8 |
-| last60d | 2026-07-16 | 0 | 18 | 11 | 0 | 4 | 17 |
-| 90d | 2026-06-16 | 0 | 30 | 13 | 3 | 8 | 37 |
-| last180d | 2026-03-18 | 0 | 71 | 15 | 18 | 17 | 121 |
-| 360d | 2025-09-19 | 0 | 153 | 18 | 36 | 36 | 226 |
-| last720d | 2024-09-24 | 0 | 359 | 22 | 73 | 67 | 976 |
+| 30d | 2026-08-16 | 0 | 6 | 10 | 0 | 1 | 8 |
+| last60d | 2026-07-17 | 0 | 18 | 11 | 0 | 4 | 17 |
+| 90d | 2026-06-17 | 0 | 30 | 13 | 3 | 8 | 37 |
+| last180d | 2026-03-19 | 0 | 71 | 15 | 18 | 17 | 121 |
+| 360d | 2025-09-20 | 0 | 150 | 18 | 36 | 36 | 226 |
+| last720d | 2024-09-25 | 0 | 359 | 22 | 73 | 66 | 974 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:51:25Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:03:42Z._
