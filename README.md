@@ -14,11 +14,11 @@ x install newsboat
 
 ## Code insight
 
-Total: **110,743** lines of code across **428** files in the top 5 languages.
+Total: **110,827** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 56,205 | 1,847 | 9,457 | 178 |
+| Cpp | 56,289 | 1,869 | 9,475 | 178 |
 | CppHeader | 31,068 | 5,868 | 6,290 | 3 |
 | Rust | 12,366 | 543 | 2,214 | 94 |
 | CHeader | 5,809 | 518 | 1,727 | 135 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,909 · **Forks**: 254 · **Open issues**: 1,309 · **Contributors**: 205
+- **Stars**: 3,910 · **Forks**: 253 · **Open issues**: 1,309 · **Contributors**: 206
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1872 · **Open PRs**: 25 · **Closed issues**: 920 · **Open issues**: 389 · **Commits**: 8971
+- **Releases**: 0 · **Merged PRs**: 1873 · **Open PRs**: 24 · **Closed issues**: 920 · **Open issues**: 389 · **Commits**: 8977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 6 | 8 | 0 | 1 | 8 |
-| last60d | 2026-07-19 | 0 | 13 | 11 | 0 | 3 | 17 |
-| 90d | 2026-06-19 | 0 | 30 | 13 | 3 | 8 | 37 |
-| last180d | 2026-03-21 | 0 | 69 | 15 | 17 | 17 | 121 |
-| 360d | 2025-09-22 | 0 | 147 | 18 | 36 | 36 | 226 |
-| last720d | 2024-09-27 | 0 | 359 | 22 | 72 | 66 | 974 |
+| 30d | 2026-08-19 | 0 | 6 | 8 | 0 | 1 | 12 |
+| last60d | 2026-07-20 | 0 | 12 | 11 | 0 | 2 | 21 |
+| 90d | 2026-06-20 | 0 | 29 | 12 | 3 | 8 | 42 |
+| last180d | 2026-03-22 | 0 | 69 | 14 | 17 | 17 | 126 |
+| 360d | 2025-09-23 | 0 | 147 | 17 | 36 | 35 | 231 |
+| last720d | 2024-09-28 | 0 | 357 | 21 | 72 | 66 | 980 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:00:48Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:55:50Z._
