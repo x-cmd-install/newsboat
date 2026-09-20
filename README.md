@@ -4,7 +4,7 @@
 
 An RSS/Atom feed reader for text terminals
 
-![newsboat](https://repo.x-cmd.io/newsboat.svg)
+[![x-cmd/install — newsboat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/newsboat.svg)](https://x-cmd.com/install/newsboat)
 
 ## Install
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,910 · **Forks**: 253 · **Open issues**: 1,309 · **Contributors**: 206
+- **Stars**: 3,909 · **Forks**: 253 · **Open issues**: 1,310 · **Contributors**: 206
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1873 · **Open PRs**: 24 · **Closed issues**: 920 · **Open issues**: 389 · **Commits**: 8977
+- **Releases**: 0 · **Merged PRs**: 1874 · **Open PRs**: 24 · **Closed issues**: 920 · **Open issues**: 390 · **Commits**: 8979
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 6 | 8 | 0 | 1 | 12 |
-| last60d | 2026-07-20 | 0 | 12 | 11 | 0 | 2 | 21 |
-| 90d | 2026-06-20 | 0 | 29 | 12 | 3 | 8 | 42 |
-| last180d | 2026-03-22 | 0 | 69 | 14 | 17 | 17 | 126 |
-| 360d | 2025-09-23 | 0 | 147 | 17 | 36 | 35 | 231 |
-| last720d | 2024-09-28 | 0 | 357 | 21 | 72 | 66 | 980 |
+| 30d | 2026-08-21 | 0 | 5 | 8 | 0 | 2 | 11 |
+| last60d | 2026-07-22 | 0 | 12 | 11 | 0 | 3 | 17 |
+| 90d | 2026-06-22 | 0 | 26 | 12 | 2 | 9 | 36 |
+| last180d | 2026-03-24 | 0 | 69 | 14 | 17 | 18 | 121 |
+| 360d | 2025-09-25 | 0 | 146 | 17 | 36 | 36 | 228 |
+| last720d | 2024-09-30 | 0 | 354 | 21 | 72 | 67 | 973 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:55:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:49:07Z._
