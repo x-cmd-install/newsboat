@@ -14,14 +14,14 @@ x install newsboat
 
 ## Code insight
 
-Total: **110,827** lines of code across **428** files in the top 5 languages.
+Total: **111,134** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 56,289 | 1,869 | 9,475 | 178 |
+| Cpp | 56,585 | 1,870 | 9,536 | 178 |
 | CppHeader | 31,068 | 5,868 | 6,290 | 3 |
-| Rust | 12,366 | 543 | 2,214 | 94 |
-| CHeader | 5,809 | 518 | 1,727 | 135 |
+| Rust | 12,370 | 543 | 2,215 | 94 |
+| CHeader | 5,816 | 518 | 1,727 | 135 |
 | AsciiDoc | 2,382 | 6 | 861 | 18 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,909 · **Forks**: 253 · **Open issues**: 1,310 · **Contributors**: 206
+- **Stars**: 3,910 · **Forks**: 253 · **Open issues**: 1,311 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1874 · **Open PRs**: 24 · **Closed issues**: 920 · **Open issues**: 390 · **Commits**: 8979
+- **Releases**: 0 · **Merged PRs**: 1877 · **Open PRs**: 23 · **Closed issues**: 920 · **Open issues**: 391 · **Commits**: 8986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 5 | 8 | 0 | 2 | 11 |
-| last60d | 2026-07-22 | 0 | 12 | 11 | 0 | 3 | 17 |
-| 90d | 2026-06-22 | 0 | 26 | 12 | 2 | 9 | 36 |
-| last180d | 2026-03-24 | 0 | 69 | 14 | 17 | 18 | 121 |
-| 360d | 2025-09-25 | 0 | 146 | 17 | 36 | 36 | 228 |
-| last720d | 2024-09-30 | 0 | 354 | 21 | 72 | 67 | 973 |
+| 30d | 2026-08-22 | 0 | 7 | 8 | 0 | 3 | 15 |
+| last60d | 2026-07-23 | 0 | 15 | 10 | 0 | 4 | 21 |
+| 90d | 2026-06-23 | 0 | 29 | 11 | 1 | 10 | 40 |
+| last180d | 2026-03-25 | 0 | 71 | 13 | 17 | 19 | 125 |
+| 360d | 2025-09-26 | 0 | 148 | 16 | 36 | 37 | 232 |
+| last720d | 2024-10-01 | 0 | 356 | 20 | 72 | 67 | 975 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:49:07Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:52:35Z._
