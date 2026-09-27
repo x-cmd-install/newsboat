@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,914 · **Forks**: 252 · **Open issues**: 1,311 · **Contributors**: 207
+- **Stars**: 3,915 · **Forks**: 251 · **Open issues**: 1,311 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1877 · **Open PRs**: 25 · **Closed issues**: 920 · **Open issues**: 391 · **Commits**: 8986
+- **Releases**: 0 · **Merged PRs**: 1881 · **Open PRs**: 22 · **Closed issues**: 920 · **Open issues**: 391 · **Commits**: 8996
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 7 | 11 | 0 | 3 | 15 |
-| last60d | 2026-07-28 | 0 | 12 | 12 | 0 | 3 | 21 |
-| 90d | 2026-06-28 | 0 | 27 | 12 | 1 | 9 | 40 |
-| last180d | 2026-03-30 | 0 | 67 | 15 | 14 | 19 | 125 |
-| 360d | 2025-10-01 | 0 | 147 | 18 | 36 | 37 | 232 |
-| last720d | 2024-10-06 | 0 | 353 | 22 | 69 | 66 | 957 |
+| 30d | 2026-08-28 | 0 | 11 | 8 | 0 | 3 | 17 |
+| last60d | 2026-07-29 | 0 | 16 | 9 | 0 | 3 | 24 |
+| 90d | 2026-06-29 | 0 | 31 | 9 | 1 | 9 | 42 |
+| last180d | 2026-03-31 | 0 | 70 | 12 | 14 | 19 | 122 |
+| 360d | 2025-10-02 | 0 | 151 | 15 | 36 | 36 | 234 |
+| last720d | 2024-10-07 | 0 | 357 | 19 | 69 | 66 | 967 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:39:25Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:07:00Z._
