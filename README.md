@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 11 | 8 | 0 | 3 | 17 |
-| last60d | 2026-07-29 | 0 | 16 | 9 | 0 | 3 | 24 |
-| 90d | 2026-06-29 | 0 | 31 | 9 | 1 | 9 | 42 |
-| last180d | 2026-03-31 | 0 | 70 | 12 | 14 | 19 | 122 |
-| 360d | 2025-10-02 | 0 | 151 | 15 | 36 | 36 | 234 |
-| last720d | 2024-10-07 | 0 | 357 | 19 | 69 | 66 | 967 |
+| 30d | 2026-08-29 | 0 | 11 | 7 | 0 | 3 | 17 |
+| last60d | 2026-07-30 | 0 | 15 | 9 | 0 | 3 | 24 |
+| 90d | 2026-06-30 | 0 | 30 | 9 | 1 | 9 | 42 |
+| last180d | 2026-04-01 | 0 | 70 | 12 | 14 | 19 | 122 |
+| 360d | 2025-10-03 | 0 | 151 | 15 | 36 | 36 | 234 |
+| last720d | 2024-10-08 | 0 | 357 | 19 | 69 | 66 | 967 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:07:00Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:06:31Z._
