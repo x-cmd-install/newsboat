@@ -30,9 +30,9 @@ x install newsboat
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Code-Review** (4/10) — Found 6/15 approved changesets -- score normalized to 4
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -52,12 +52,12 @@ x install newsboat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 8 | 0 | 1 | 2 | 13 |
-| last60d | 2026-08-22 | 0 | 20 | 6 | 1 | 5 | 35 |
-| 90d | 2026-07-23 | 0 | 28 | 7 | 1 | 6 | 42 |
-| last180d | 2026-04-24 | 0 | 71 | 9 | 9 | 19 | 124 |
-| 360d | 2025-10-26 | 0 | 148 | 12 | 35 | 34 | 237 |
-| last720d | 2024-10-31 | 0 | 356 | 16 | 67 | 64 | 969 |
+| 30d | 2026-09-22 | 0 | 8 | 0 | 1 | 2 | 13 |
+| last60d | 2026-08-23 | 0 | 20 | 6 | 1 | 5 | 35 |
+| 90d | 2026-07-24 | 0 | 28 | 7 | 1 | 6 | 42 |
+| last180d | 2026-04-25 | 0 | 70 | 9 | 9 | 19 | 124 |
+| 360d | 2025-10-27 | 0 | 148 | 12 | 35 | 34 | 237 |
+| last720d | 2024-11-01 | 0 | 356 | 16 | 67 | 64 | 969 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ newsboat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:31:13Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:27:11Z._
