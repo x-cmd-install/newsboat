@@ -14,13 +14,13 @@ x install newsboat
 
 ## Code insight
 
-Total: **111,129** lines of code across **428** files in the top 5 languages.
+Total: **111,191** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 56,573 | 1,870 | 9,538 | 178 |
 | CppHeader | 31,068 | 5,868 | 6,290 | 3 |
-| Rust | 12,370 | 543 | 2,215 | 94 |
+| Rust | 12,432 | 538 | 2,225 | 94 |
 | CHeader | 5,815 | 518 | 1,726 | 135 |
 | AsciiDoc | 2,390 | 6 | 862 | 18 |
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1891 · **Open PRs**: 22 · **Closed issues**: 922 · **Open issues**: 391 · **Commits**: 9023
+- **Releases**: 0 · **Merged PRs**: 1893 · **Open PRs**: 20 · **Closed issues**: 922 · **Open issues**: 391 · **Commits**: 9028
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 9 | 2 | 2 | 1 | 12 |
-| last60d | 2026-08-26 | 0 | 21 | 8 | 2 | 4 | 36 |
-| 90d | 2026-07-27 | 0 | 26 | 9 | 2 | 5 | 41 |
-| last180d | 2026-04-28 | 0 | 71 | 11 | 10 | 18 | 125 |
-| 360d | 2025-10-30 | 0 | 149 | 14 | 36 | 30 | 238 |
-| last720d | 2024-11-04 | 0 | 357 | 18 | 67 | 63 | 972 |
+| 30d | 2026-09-26 | 0 | 10 | 0 | 2 | 1 | 14 |
+| last60d | 2026-08-27 | 0 | 23 | 6 | 2 | 4 | 38 |
+| 90d | 2026-07-28 | 0 | 28 | 7 | 2 | 4 | 43 |
+| last180d | 2026-04-29 | 0 | 73 | 9 | 10 | 18 | 127 |
+| 360d | 2025-10-31 | 0 | 151 | 12 | 36 | 30 | 240 |
+| last720d | 2024-11-05 | 0 | 358 | 16 | 66 | 63 | 977 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:17:53Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:24:28Z._
