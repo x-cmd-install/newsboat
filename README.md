@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,931 · **Forks**: 251 · **Open issues**: 1,314 · **Contributors**: 207
+- **Stars**: 3,932 · **Forks**: 251 · **Open issues**: 1,314 · **Contributors**: 207
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 10 | 0 | 2 | 1 | 14 |
-| last60d | 2026-08-30 | 0 | 23 | 5 | 2 | 5 | 38 |
-| 90d | 2026-07-31 | 0 | 27 | 7 | 2 | 5 | 43 |
-| last180d | 2026-05-02 | 0 | 72 | 9 | 10 | 18 | 127 |
-| 360d | 2025-11-03 | 0 | 150 | 12 | 36 | 30 | 240 |
-| last720d | 2024-11-08 | 0 | 355 | 16 | 66 | 64 | 977 |
+| 30d | 2026-09-30 | 0 | 10 | 0 | 2 | 1 | 14 |
+| last60d | 2026-08-31 | 0 | 23 | 5 | 2 | 5 | 38 |
+| 90d | 2026-08-01 | 0 | 27 | 7 | 2 | 5 | 43 |
+| last180d | 2026-05-03 | 0 | 72 | 9 | 10 | 18 | 127 |
+| 360d | 2025-11-04 | 0 | 150 | 12 | 36 | 30 | 240 |
+| last720d | 2024-11-09 | 0 | 355 | 16 | 66 | 64 | 977 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **131** distros on [repology.org](https://repology.org/project/newsb
 | Debian 13 | `2.36` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
 | Arch | `2.45` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.45` | ✅ latest |
 | Fedora rawhide | `2.45` | ✅ latest |
 | Nix unstable | `2.45` | ✅ latest |
 | Void | `2.45` | ✅ latest |
@@ -86,4 +86,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:29:50Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:31:08Z._
