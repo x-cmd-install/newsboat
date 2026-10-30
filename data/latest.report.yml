@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:29:31Z
+  collectedAt: 2026-10-30T06:30:54Z
 timeline:
   created: 2017-09-17
   lastCommit: 2026-10-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 3931
+  star: 3932
   watcher: 40
   fork: 251
   release: 0
@@ -39,7 +39,7 @@ language:
 totalBytes: 2369380
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 10
     openPR: 0
@@ -47,7 +47,7 @@ recent:
     openIssue: 1
     commit: 14
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 23
     openPR: 5
@@ -55,7 +55,7 @@ recent:
     openIssue: 5
     commit: 38
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 27
     openPR: 7
@@ -63,7 +63,7 @@ recent:
     openIssue: 5
     commit: 43
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 72
     openPR: 9
@@ -71,7 +71,7 @@ recent:
     openIssue: 18
     commit: 127
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 150
     openPR: 12
@@ -79,7 +79,7 @@ recent:
     openIssue: 30
     commit: 240
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 355
     openPR: 16
@@ -95,7 +95,7 @@ total:
   commit: 9028
 ---
 path: /home/runner/.x-repo/github.com/newsboat/newsboat
-collectedAt: 2026-10-29T06:29:43Z
+collectedAt: 2026-10-30T06:31:00Z
 loc:
   Cpp:
     code: 56573
