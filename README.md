@@ -26,13 +26,13 @@ Total: **111,191** lines of code across **428** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,937 · **Forks**: 251 · **Open issues**: 1,314 · **Contributors**: 207
+- **Stars**: 3,938 · **Forks**: 251 · **Open issues**: 1,314 · **Contributors**: 208
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1894 · **Open PRs**: 24 · **Closed issues**: 922 · **Open issues**: 392 · **Commits**: 9030
+- **Releases**: 0 · **Merged PRs**: 1895 · **Open PRs**: 23 · **Closed issues**: 923 · **Open issues**: 391 · **Commits**: 9034
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 8 | 4 | 1 | 1 | 10 |
-| last60d | 2026-09-05 | 0 | 21 | 8 | 2 | 5 | 32 |
-| 90d | 2026-08-06 | 0 | 28 | 11 | 2 | 5 | 44 |
-| last180d | 2026-05-08 | 0 | 73 | 13 | 9 | 18 | 127 |
-| 360d | 2025-11-09 | 0 | 150 | 16 | 35 | 29 | 239 |
-| last720d | 2024-11-14 | 0 | 356 | 20 | 66 | 64 | 979 |
+| 30d | 2026-10-06 | 0 | 8 | 4 | 1 | 1 | 11 |
+| last60d | 2026-09-06 | 0 | 21 | 7 | 2 | 5 | 33 |
+| 90d | 2026-08-07 | 0 | 29 | 10 | 2 | 5 | 47 |
+| last180d | 2026-05-09 | 0 | 74 | 12 | 10 | 17 | 130 |
+| 360d | 2025-11-10 | 0 | 151 | 15 | 36 | 28 | 242 |
+| last720d | 2024-11-15 | 0 | 357 | 19 | 67 | 63 | 983 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:05:33Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:32:13Z._
