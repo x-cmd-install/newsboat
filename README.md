@@ -42,26 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,938 · **Forks**: 251 · **Open issues**: 1,314 · **Contributors**: 208
+- **Stars**: 3,935 · **Forks**: 251 · **Open issues**: 1,316 · **Contributors**: 208
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1895 · **Open PRs**: 23 · **Closed issues**: 923 · **Open issues**: 391 · **Commits**: 9034
+- **Releases**: 0 · **Merged PRs**: 1895 · **Open PRs**: 26 · **Closed issues**: 923 · **Open issues**: 393 · **Commits**: 9034
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 8 | 4 | 1 | 1 | 11 |
-| last60d | 2026-09-06 | 0 | 21 | 7 | 2 | 5 | 33 |
-| 90d | 2026-08-07 | 0 | 29 | 10 | 2 | 5 | 47 |
-| last180d | 2026-05-09 | 0 | 74 | 12 | 10 | 17 | 130 |
-| 360d | 2025-11-10 | 0 | 151 | 15 | 36 | 28 | 242 |
-| last720d | 2024-11-15 | 0 | 357 | 19 | 67 | 63 | 983 |
+| 30d | 2026-10-07 | 0 | 8 | 7 | 1 | 3 | 11 |
+| last60d | 2026-09-07 | 0 | 21 | 10 | 2 | 7 | 33 |
+| 90d | 2026-08-08 | 0 | 29 | 13 | 2 | 7 | 47 |
+| last180d | 2026-05-10 | 0 | 73 | 15 | 10 | 19 | 130 |
+| 360d | 2025-11-11 | 0 | 151 | 18 | 36 | 30 | 242 |
+| last720d | 2024-11-16 | 0 | 357 | 22 | 67 | 65 | 983 |
 
 ## Distribution status
 
-Reported by **131** distros on [repology.org](https://repology.org/project/newsboat). **30** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
+Reported by **131** distros on [repology.org](https://repology.org/project/newsboat). **7** are ✅ on the latest upstream release, **103** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -69,13 +69,13 @@ Reported by **131** distros on [repology.org](https://repology.org/project/newsb
 | Debian 14 | `2.44` | ⚠️ outdated |
 | Debian 13 | `2.36` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
-| Arch | `2.45` | ✅ latest |
-| Homebrew | `2.45` | ✅ latest |
-| Fedora rawhide | `2.45` | ✅ latest |
-| Nix unstable | `2.45` | ✅ latest |
-| Void | `2.45` | ✅ latest |
-| Alpine edge | `2.45` | ✅ latest |
-| openSUSE Tumbleweed | `2.45` | ✅ latest |
+| Arch | `2.45.1` | ✅ latest |
+| Homebrew | `2.45.1` | ✅ latest |
+| Fedora rawhide | `2.45` | ⚠️ outdated |
+| Nix unstable | `2.45` | ⚠️ outdated |
+| Void | `2.45` | ⚠️ outdated |
+| Alpine edge | `2.45` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.45` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:32:13Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:37:07Z._

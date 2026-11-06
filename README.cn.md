@@ -42,26 +42,26 @@ x install newsboat
 
 ## 流行度
 
-- **Star**: 3,938 · **Fork**: 251 · **开放 issue**: 1,314 · **贡献者**: 208
+- **Star**: 3,935 · **Fork**: 251 · **开放 issue**: 1,316 · **贡献者**: 208
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 1895 · **开放 PR**: 23 · **已关闭 issue**: 923 · **开放 issue**: 391 · **提交数**: 9034
+- **发布数**: 0 · **已合并 PR**: 1895 · **开放 PR**: 26 · **已关闭 issue**: 923 · **开放 issue**: 393 · **提交数**: 9034
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 8 | 4 | 1 | 1 | 11 |
-| last60d | 2026-09-06 | 0 | 21 | 7 | 2 | 5 | 33 |
-| 90d | 2026-08-07 | 0 | 29 | 10 | 2 | 5 | 47 |
-| last180d | 2026-05-09 | 0 | 74 | 12 | 10 | 17 | 130 |
-| 360d | 2025-11-10 | 0 | 151 | 15 | 36 | 28 | 242 |
-| last720d | 2024-11-15 | 0 | 357 | 19 | 67 | 63 | 983 |
+| 30d | 2026-10-07 | 0 | 8 | 7 | 1 | 3 | 11 |
+| last60d | 2026-09-07 | 0 | 21 | 10 | 2 | 7 | 33 |
+| 90d | 2026-08-08 | 0 | 29 | 13 | 2 | 7 | 47 |
+| last180d | 2026-05-10 | 0 | 73 | 15 | 10 | 19 | 130 |
+| 360d | 2025-11-11 | 0 | 151 | 18 | 36 | 30 | 242 |
+| last720d | 2024-11-16 | 0 | 357 | 22 | 67 | 65 | 983 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/newsboat) 上共有 **131** 个发行版报告此项目。**30** 个 ✅ 已是最新上游版本，**80** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/newsboat) 上共有 **131** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**103** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -69,13 +69,13 @@ x install newsboat
 | Debian 14 | `2.44` | ⚠️ outdated |
 | Debian 13 | `2.36` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
-| Arch | `2.45` | ✅ latest |
-| Homebrew | `2.45` | ✅ latest |
-| Fedora rawhide | `2.45` | ✅ latest |
-| Nix unstable | `2.45` | ✅ latest |
-| Void | `2.45` | ✅ latest |
-| Alpine edge | `2.45` | ✅ latest |
-| openSUSE Tumbleweed | `2.45` | ✅ latest |
+| Arch | `2.45.1` | ✅ latest |
+| Homebrew | `2.45.1` | ✅ latest |
+| Fedora rawhide | `2.45` | ⚠️ outdated |
+| Nix unstable | `2.45` | ⚠️ outdated |
+| Void | `2.45` | ⚠️ outdated |
+| Alpine edge | `2.45` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.45` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ newsboat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T07:32:14Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T07:37:08Z._
