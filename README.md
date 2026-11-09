@@ -14,11 +14,11 @@ x install newsboat
 
 ## Code insight
 
-Total: **111,189** lines of code across **428** files in the top 5 languages.
+Total: **111,188** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 56,573 | 1,870 | 9,538 | 178 |
+| Cpp | 56,572 | 1,870 | 9,538 | 178 |
 | CppHeader | 31,068 | 5,868 | 6,290 | 3 |
 | Rust | 12,430 | 538 | 2,224 | 94 |
 | CHeader | 5,815 | 518 | 1,726 | 135 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,937 · **Forks**: 250 · **Open issues**: 1,317 · **Contributors**: 207
+- **Stars**: 3,938 · **Forks**: 250 · **Open issues**: 1,317 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1898 · **Open PRs**: 26 · **Closed issues**: 923 · **Open issues**: 394 · **Commits**: 9040
+- **Releases**: 0 · **Merged PRs**: 1900 · **Open PRs**: 24 · **Closed issues**: 925 · **Open issues**: 392 · **Commits**: 9044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 11 | 7 | 2 | 3 | 13 |
-| last60d | 2026-09-09 | 0 | 24 | 9 | 3 | 7 | 31 |
-| 90d | 2026-08-10 | 0 | 32 | 13 | 3 | 7 | 50 |
-| last180d | 2026-05-12 | 0 | 76 | 15 | 10 | 20 | 126 |
-| 360d | 2025-11-13 | 0 | 153 | 18 | 36 | 30 | 245 |
-| last720d | 2024-11-18 | 0 | 358 | 22 | 67 | 65 | 988 |
+| 30d | 2026-10-10 | 0 | 13 | 5 | 3 | 2 | 15 |
+| last60d | 2026-09-10 | 0 | 26 | 7 | 4 | 6 | 33 |
+| 90d | 2026-08-11 | 0 | 34 | 11 | 4 | 6 | 52 |
+| last180d | 2026-05-13 | 0 | 78 | 13 | 12 | 18 | 128 |
+| 360d | 2025-11-14 | 0 | 155 | 16 | 38 | 28 | 247 |
+| last720d | 2024-11-19 | 0 | 360 | 20 | 69 | 63 | 991 |
 
 ## Distribution status
 
-Reported by **133** distros on [repology.org](https://repology.org/project/newsboat). **14** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
+Reported by **133** distros on [repology.org](https://repology.org/project/newsboat). **17** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:45:46Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:16:56Z._
