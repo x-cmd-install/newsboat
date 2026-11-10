@@ -1,56 +1,3 @@
-- repo: homebrew
-  srcname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: null
-  status: newest
-  summary: RSS/Atom feed reader for text terminals
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.44"
-  origversion: 2.44-1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
-- repo: homebrew
-  srcname: newsboat
-  visiblename: newsboat
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: RSS/Atom feed reader for text terminals
-- repo: alpine_edge
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.45"
-  origversion: 2.45-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: kali_rolling
-  subrepo: main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.44"
-  origversion: 2.44-1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
 - repo: deepin_unstable
   subrepo: main
   srcname: newsboat
@@ -75,380 +22,6 @@
     - nikos@tsipinakis.com
   categories:
     - misc
-- repo: alpine_3_17
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: 2.30.1
-  origversion: 2.30.1-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: 2.30.1
-  origversion: 2.30.1-r0
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: 2.30.1
-  origversion: 2.30.1-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.31"
-  origversion: 2.31-r1
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: "2.31"
-  origversion: 2.31-r1
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: "2.31"
-  origversion: 2.31-r1
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.36"
-  origversion: 2.36-1.1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
-- repo: alpine_3_19
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.33"
-  origversion: 2.33-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: "2.33"
-  origversion: 2.33-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: "2.33"
-  origversion: 2.33-r0
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.35"
-  origversion: 2.35-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: "2.35"
-  origversion: 2.35-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: "2.35"
-  origversion: 2.35-r0
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.37"
-  origversion: 2.37-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: "2.37"
-  origversion: 2.37-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: "2.37"
-  origversion: 2.37-r0
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.39"
-  origversion: 2.39-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: debian_14
-  subrepo: forky/main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.44"
-  origversion: 2.44-1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
-- repo: alpine_3_22
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: "2.39"
-  origversion: 2.39-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: "2.39"
-  origversion: 2.39-r0
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.41"
-  origversion: 2.41-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: "2.41"
-  origversion: 2.41-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: vylen
-  subrepo: community
-  srcname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: 2.45.1-1
-  status: newest
-  summary: An RSS/Atom feed reader for text terminals
-  maintainers:
-    - wonkru-dev@proton.me
-- repo: alpine_3_23
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-fish-completion
-  visiblename: newsboat-fish-completion
-  version: "2.41"
-  origversion: 2.41-r0
-  status: outdated
-  summary: Fish completions for newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: "2.41"
-  origversion: 2.41-r0
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: "2.43"
-  origversion: 2.43-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-doc
-  visiblename: newsboat-doc
-  version: "2.43"
-  origversion: 2.43-r0
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals (documentation)
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-fish-completion
-  visiblename: newsboat-fish-completion
-  version: "2.43"
-  origversion: 2.43-r0
-  status: outdated
-  summary: Fish completions for newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: newsboat
-  binname: newsboat-lang
-  visiblename: newsboat-lang
-  version: "2.43"
-  origversion: 2.43-r0
-  status: outdated
-  summary: Languages for package newsboat
-  maintainers:
-    - mike@crute.us
-  licenses:
-    - MIT
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: newsboat
@@ -462,6 +35,429 @@
     - nikos@tsipinakis.com
   categories:
     - misc
+- repo: wikidata
+  srcname: Q70014271
+  visiblename: Newsboat
+  version: 2.45.1
+  origversion: null
+  status: newest
+  summary: RSS/Atom feed reader for text terminals
+  licenses:
+    - MIT License
+- repo: crux_37
+  subrepo: opt
+  srcname: newsboat
+  visiblename: newsboat
+  version: "2.39"
+  origversion: null
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - jue@crux.nu
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.36"
+  origversion: 2.36-1.1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.44"
+  origversion: 2.44-1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - misc
+- repo: alpine_3_17
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: 2.30.1
+  origversion: 2.30.1-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: 2.30.1
+  origversion: 2.30.1-r0
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: 2.30.1
+  origversion: 2.30.1-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: pclinuxos
+  srcname: newsboat
+  visiblename: newsboat
+  version: "2.44"
+  origversion: 2.44-1pclos2026
+  status: outdated
+  summary: RSS/Atom Feed Reader for Text Terminals
+  categories:
+    - Networking/News
+- repo: pclinuxos
+  srcname: newsboat
+  visiblename: newsboat
+  version: "2.44"
+  origversion: 2.44-2pclos2026
+  status: outdated
+  summary: RSS/Atom Feed Reader for Text Terminals
+  categories:
+    - Networking/News
+- repo: alpine_3_18
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.31"
+  origversion: 2.31-r1
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: "2.31"
+  origversion: 2.31-r1
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: "2.31"
+  origversion: 2.31-r1
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.33"
+  origversion: 2.33-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: "2.33"
+  origversion: 2.33-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: "2.33"
+  origversion: 2.33-r0
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.35"
+  origversion: 2.35-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: "2.35"
+  origversion: 2.35-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: "2.35"
+  origversion: 2.35-r0
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.37"
+  origversion: 2.37-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: "2.37"
+  origversion: 2.37-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: "2.37"
+  origversion: 2.37-r0
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.39"
+  origversion: 2.39-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: "2.39"
+  origversion: 2.39-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: "2.39"
+  origversion: 2.39-r0
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.41"
+  origversion: 2.41-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: "2.41"
+  origversion: 2.41-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-fish-completion
+  visiblename: newsboat-fish-completion
+  version: "2.41"
+  origversion: 2.41-r0
+  status: outdated
+  summary: Fish completions for newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: "2.41"
+  origversion: 2.41-r0
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.43"
+  origversion: 2.43-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-doc
+  visiblename: newsboat-doc
+  version: "2.43"
+  origversion: 2.43-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals (documentation)
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: chromebrew
+  srcname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: null
+  status: newest
+  summary: Newsboat is an RSS/Atom feed reader for the text console.
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-fish-completion
+  visiblename: newsboat-fish-completion
+  version: "2.43"
+  origversion: 2.43-r0
+  status: outdated
+  summary: Fish completions for newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat-lang
+  visiblename: newsboat-lang
+  version: "2.43"
+  origversion: 2.43-r0
+  status: outdated
+  summary: Languages for package newsboat
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: "2.45"
+  origversion: 2.45-r0
+  status: outdated
+  summary: RSS/Atom feed reader for text terminals
+  maintainers:
+    - mike@crute.us
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: community
   srcname: newsboat
@@ -523,9 +519,9 @@
     - newsboat
     - newsboat-debuginfo
   visiblename: newsboat
-  version: "2.45"
-  origversion: 2.45-alt1
-  status: outdated
+  version: 2.45.1
+  origversion: 2.45.1-alt1
+  status: newest
   summary: An RSS/Atom feed reader for the text console
   maintainers:
     - serjigva@altlinux.org
@@ -579,25 +575,6 @@
   summary: RSS/Atom feed reader for text terminals
   licenses:
     - MIT
-- repo: chromebrew
-  srcname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: null
-  status: newest
-  summary: Newsboat is an RSS/Atom feed reader for the text console.
-  licenses:
-    - MIT
-- repo: crux_37
-  subrepo: opt
-  srcname: newsboat
-  visiblename: newsboat
-  version: "2.39"
-  origversion: null
-  status: outdated
-  summary: RSS/Atom feed reader for text terminals
-  maintainers:
-    - jue@crux.nu
 - repo: crux_38
   subrepo: opt
   srcname: newsboat
@@ -634,31 +611,32 @@
     - nikos@tsipinakis.com
   categories:
     - misc
-- repo: fedora_39
-  subrepo: release
+- repo: debian_13
+  subrepo: trixie/main
   srcname: newsboat
   binnames:
     - newsboat
-    - newsboat-debuginfo
-    - newsboat-debugsource
   visiblename: newsboat
-  version: "2.32"
-  origversion: 2.32-2.fc39
-  status: legacy
-  summary: RSS/Atom feed reader for the text console
-  licenses:
-    - MIT
+  version: "2.36"
+  origversion: 2.36-1.1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
   categories:
-    - Unspecified
-- repo: wikidata
-  srcname: Q70014271
-  visiblename: Newsboat
-  version: 2.45.1
-  origversion: null
-  status: newest
-  summary: RSS/Atom feed reader for text terminals
-  licenses:
-    - MIT License
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.44"
+  origversion: 2.44-1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - misc
 - repo: fedora_39
   subrepo: updates
   srcname: newsboat
@@ -670,6 +648,22 @@
   version: "2.37"
   origversion: 2.37-1.fc39
   status: outdated
+  summary: RSS/Atom feed reader for the text console
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: newsboat
+  binnames:
+    - newsboat
+    - newsboat-debuginfo
+    - newsboat-debugsource
+  visiblename: newsboat
+  version: "2.32"
+  origversion: 2.32-2.fc39
+  status: legacy
   summary: RSS/Atom feed reader for the text console
   licenses:
     - MIT
@@ -804,22 +798,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: newsboat
-  binnames:
-    - newsboat
-    - newsboat-debuginfo
-    - newsboat-debugsource
-  visiblename: newsboat
-  version: "2.43"
-  origversion: 2.43-1.fc44
-  status: legacy
-  summary: RSS/Atom feed reader for the text console
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: newsboat
   binnames:
@@ -830,6 +808,22 @@
   version: "2.45"
   origversion: 2.45-1.fc44
   status: outdated
+  summary: RSS/Atom feed reader for the text console
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: newsboat
+  binnames:
+    - newsboat
+    - newsboat-debuginfo
+    - newsboat-debugsource
+  visiblename: newsboat
+  version: "2.43"
+  origversion: 2.43-1.fc44
+  status: legacy
   summary: RSS/Atom feed reader for the text console
   licenses:
     - MIT
@@ -909,6 +903,33 @@
   origversion: null
   status: outdated
   summary: Text-mode RSS and Atom feed reader with podcast support
+- repo: homebrew
+  srcname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: null
+  status: newest
+  summary: RSS/Atom feed reader for text terminals
+- repo: homebrew
+  srcname: newsboat
+  visiblename: newsboat
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: RSS/Atom feed reader for text terminals
+- repo: kali_rolling
+  subrepo: main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.44"
+  origversion: 2.44-1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - misc
 - repo: liguros_stable
   srcname: net-news/newsboat
   visiblename: net-news/newsboat
@@ -1199,37 +1220,6 @@
     - nikos@tsipinakis.com
   categories:
     - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.36"
-  origversion: 2.36-1.1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
-- repo: pclinuxos
-  srcname: newsboat
-  visiblename: newsboat
-  version: "2.44"
-  origversion: 2.44-1pclos2026
-  status: outdated
-  summary: RSS/Atom Feed Reader for Text Terminals
-  categories:
-    - Networking/News
-- repo: pclinuxos
-  srcname: newsboat
-  visiblename: newsboat
-  version: "2.44"
-  origversion: 2.44-2pclos2026
-  status: outdated
-  summary: RSS/Atom Feed Reader for Text Terminals
-  categories:
-    - Networking/News
 - repo: pureos_amber
   subrepo: amber/main
   srcname: newsboat
@@ -1476,19 +1466,6 @@
   binnames:
     - newsboat
   visiblename: newsboat
-  version: "2.38"
-  origversion: 2.38-0.1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
   version: "2.44"
   origversion: 2.44-1
   status: outdated
@@ -1501,39 +1478,24 @@
   srcname: newsboat
   binname: newsboat
   visiblename: newsboat
-  version: "2.45"
-  origversion: "2.45_1"
-  status: outdated
+  version: 2.45.1
+  origversion: 2.45.1_1
+  status: newest
   summary: RSS/Atom feed reader for the text console
   maintainers:
     - bachiralfa@gmail.com
   licenses:
     - MIT
-- repo: fedora_42
-  subrepo: release
-  srcname: newsbeuter
-  binnames:
-    - newsbeuter
-  visiblename: newsbeuter
-  version: "2.9"
-  origversion: 2.9-27.fc42
-  status: legacy
-  summary: Configurable text-based feed reader
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: gobolinux
-  srcname: NewsBeuter
-  visiblename: NewsBeuter
-  version: git
-  origversion: null
-  status: outdated
-  summary: Newsbeuter is an open-source RSS/Atom feed reader for text terminals.
-  licenses:
-    - MIT/X License
-  vulnerable: true
+- repo: vylen
+  subrepo: community
+  srcname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: 2.45.1-1
+  status: newest
+  summary: An RSS/Atom feed reader for text terminals
+  maintainers:
+    - wonkru-dev@proton.me
 - repo: deepin_unstable
   subrepo: main
   srcname: newsbeuter
@@ -1545,6 +1507,16 @@
   status: legacy
   maintainers:
     - nikos@tsipinakis.com
+  vulnerable: true
+- repo: pclinuxos
+  srcname: newsbeuter
+  visiblename: newsbeuter
+  version: "2.9"
+  origversion: 2.9-1pclos2020
+  status: legacy
+  summary: Configurable text-based feed reader
+  categories:
+    - Networking/News
   vulnerable: true
 - repo: fedora_39
   subrepo: release
@@ -1595,6 +1567,21 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: fedora_42
+  subrepo: release
+  srcname: newsbeuter
+  binnames:
+    - newsbeuter
+  visiblename: newsbeuter
+  version: "2.9"
+  origversion: 2.9-27.fc42
+  status: legacy
+  summary: Configurable text-based feed reader
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
 - repo: fedora_43
   subrepo: release
   srcname: newsbeuter
@@ -1610,15 +1597,15 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: pclinuxos
-  srcname: newsbeuter
-  visiblename: newsbeuter
-  version: "2.9"
-  origversion: 2.9-1pclos2020
-  status: legacy
-  summary: Configurable text-based feed reader
-  categories:
-    - Networking/News
+- repo: gobolinux
+  srcname: NewsBeuter
+  visiblename: NewsBeuter
+  version: git
+  origversion: null
+  status: outdated
+  summary: Newsbeuter is an open-source RSS/Atom feed reader for text terminals.
+  licenses:
+    - MIT/X License
   vulnerable: true
 - repo: pkgsrc_2026_2
   srcname: news/newsbeuter
@@ -1703,20 +1690,6 @@
     - universe/net
   vulnerable: true
 - repo: ubuntu_16_04
-  subrepo: xenial/universe
-  srcname: newsbeuter
-  binnames:
-    - newsbeuter
-  visiblename: newsbeuter
-  version: "2.9"
-  origversion: 2.9-3
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - universe/net
-  vulnerable: true
-- repo: ubuntu_16_04
   subrepo: xenial-updates/universe
   srcname: newsbeuter
   binnames:
@@ -1727,6 +1700,20 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/net
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: newsbeuter
+  binnames:
+    - newsbeuter
+  visiblename: newsbeuter
+  version: "2.9"
+  origversion: 2.9-3
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
   categories:
     - universe/net
   vulnerable: true
