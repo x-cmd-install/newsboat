@@ -32,7 +32,7 @@ Total: **111,188** lines of code across **428** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,939 · **Forks**: 251 · **Open issues**: 1,317 · **Contributors**: 207
+- **Stars**: 3,938 · **Forks**: 251 · **Open issues**: 1,317 · **Contributors**: 207
 
 ## Totals (cumulative)
 
@@ -42,16 +42,16 @@ Total: **111,188** lines of code across **428** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 13 | 5 | 3 | 2 | 15 |
-| last60d | 2026-09-11 | 0 | 26 | 7 | 4 | 5 | 33 |
-| 90d | 2026-08-12 | 0 | 34 | 11 | 4 | 6 | 52 |
-| last180d | 2026-05-14 | 0 | 78 | 13 | 11 | 18 | 128 |
-| 360d | 2025-11-15 | 0 | 155 | 16 | 38 | 28 | 247 |
-| last720d | 2024-11-20 | 0 | 360 | 20 | 69 | 63 | 991 |
+| 30d | 2026-10-12 | 0 | 13 | 5 | 3 | 2 | 15 |
+| last60d | 2026-09-12 | 0 | 25 | 7 | 4 | 5 | 33 |
+| 90d | 2026-08-13 | 0 | 34 | 11 | 4 | 6 | 52 |
+| last180d | 2026-05-15 | 0 | 78 | 13 | 11 | 18 | 128 |
+| 360d | 2025-11-16 | 0 | 155 | 16 | 38 | 28 | 247 |
+| last720d | 2024-11-21 | 0 | 359 | 20 | 69 | 63 | 980 |
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/newsboat). **19** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/newsboat). **20** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -60,7 +60,7 @@ Reported by **132** distros on [repology.org](https://repology.org/project/newsb
 | Debian 13 | `2.36` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
 | Arch | `2.45.1` | ✅ latest |
-| Homebrew | `2.45.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.45.1` | ✅ latest |
 | Nix unstable | `2.45` | ⚠️ outdated |
 | Void | `2.45.1` | ✅ latest |
@@ -76,4 +76,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:07:59Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:34:04Z._
