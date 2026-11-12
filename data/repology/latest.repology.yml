@@ -1,3 +1,38 @@
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.36"
+  origversion: 2.36-1.1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.36"
+  origversion: 2.36-1.1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - misc
+- repo: pclinuxos
+  srcname: newsboat
+  visiblename: newsboat
+  version: "2.44"
+  origversion: 2.44-1pclos2026
+  status: outdated
+  summary: RSS/Atom Feed Reader for Text Terminals
+  categories:
+    - Networking/News
 - repo: pclinuxos
   srcname: newsboat
   visiblename: newsboat
@@ -27,77 +62,29 @@
     - Unlicense
   categories:
     - net-news
-- repo: liguros_stable
-  srcname: net-news/newsboat
-  visiblename: net-news/newsboat
-  version: "2.39"
-  origversion: null
-  status: legacy
-  summary: An RSS/Atom feed reader for text terminals
+- repo: pardus_21
+  subrepo: main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.21"
+  origversion: 2.21-1
+  status: outdated
   maintainers:
-    - dev@liguros.net
-    - cedk@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - Boost-1.0
-    - CC0-1.0
-    - ISC
-    - MIT
-    - Unlicense
+    - nikos@tsipinakis.com
   categories:
-    - net-news
-- repo: liguros_develop
-  srcname: net-news/newsboat
-  visiblename: net-news/newsboat
-  version: 2.45.1
-  origversion: null
-  status: newest
-  summary: An RSS/Atom feed reader for text terminals
-  maintainers:
-    - dev@liguros.net
-    - cedk@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - Boost-1.0
-    - CC0-1.0
-    - ISC
-    - MIT
-    - Unlicense
-  categories:
-    - net-news
-- repo: manjaro_unstable
+    - misc
+- repo: starkos
   subrepo: extra
   srcname: newsboat
-  binname: newsboat
   visiblename: newsboat
   version: 2.45.1
   origversion: 2.45.1-1
   status: newest
-  summary: RSS/Atom feed reader for text terminals
-  licenses:
-    - MIT
-- repo: liguros_develop
-  srcname: net-news/newsboat
-  visiblename: net-news/newsboat
-  version: "2.45"
-  origversion: null
-  status: legacy
   summary: An RSS/Atom feed reader for text terminals
   maintainers:
-    - dev@liguros.net
-    - cedk@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - Boost-1.0
-    - CC0-1.0
-    - ISC
-    - MIT
-    - Unlicense
-  categories:
-    - net-news
+    - starkos@disroot.org
 - repo: arch
   subrepo: extra
   srcname: newsboat
@@ -252,19 +239,26 @@
     - mike@crute.us
   licenses:
     - MIT
-- repo: parrot
-  subrepo: parrot/main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.36"
-  origversion: 2.36-1.1
-  status: outdated
+- repo: liguros_stable
+  srcname: net-news/newsboat
+  visiblename: net-news/newsboat
+  version: "2.39"
+  origversion: null
+  status: legacy
+  summary: An RSS/Atom feed reader for text terminals
   maintainers:
-    - nikos@tsipinakis.com
+    - dev@liguros.net
+    - cedk@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - Unlicense
   categories:
-    - misc
+    - net-news
 - repo: alpine_3_20
   subrepo: community
   srcname: newsboat
@@ -517,18 +511,6 @@
   summary: Languages for package newsboat
   maintainers:
     - mike@crute.us
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: newsboat
-  visiblename: newsboat
-  version: "2.35"
-  origversion: null
-  status: outdated
-  summary: A fork of Newsbeuter, an RSS/Atom feed reader for the text console
-  maintainers:
-    - rschuetz17@gmail.com
-    - nixpkgs@nicknovitski.com
   licenses:
     - MIT
 - repo: alt_p11
@@ -806,34 +788,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: nix_stable_24_11
-  srcname: newsboat
-  visiblename: newsboat
-  version: "2.37"
-  origversion: null
-  status: outdated
-  summary: Fork of Newsbeuter, an RSS/Atom feed reader for the text console
-  maintainers:
-    - rschuetz17@gmail.com
-    - nixpkgs@nicknovitski.com
-  licenses:
-    - MIT
-- repo: fedora_41
-  subrepo: updates
-  srcname: newsboat
-  binnames:
-    - newsboat
-    - newsboat-debuginfo
-    - newsboat-debugsource
-  visiblename: newsboat
-  version: "2.38"
-  origversion: 2.38-1.fc41
-  status: outdated
-  summary: RSS/Atom feed reader for the text console
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: fedora_41
   subrepo: release
   srcname: newsboat
@@ -850,7 +804,7 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_42
+- repo: fedora_41
   subrepo: updates
   srcname: newsboat
   binnames:
@@ -858,8 +812,8 @@
     - newsboat-debuginfo
     - newsboat-debugsource
   visiblename: newsboat
-  version: "2.43"
-  origversion: 2.43-1.fc42
+  version: "2.38"
+  origversion: 2.38-1.fc41
   status: outdated
   summary: RSS/Atom feed reader for the text console
   licenses:
@@ -882,6 +836,22 @@
     - MIT
   categories:
     - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: newsboat
+  binnames:
+    - newsboat
+    - newsboat-debuginfo
+    - newsboat-debugsource
+  visiblename: newsboat
+  version: "2.43"
+  origversion: 2.43-1.fc42
+  status: outdated
+  summary: RSS/Atom feed reader for the text console
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: fedora_43
   subrepo: updates
   srcname: newsboat
@@ -898,6 +868,17 @@
     - MIT
   categories:
     - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: 2.45.1-1
+  status: newest
+  summary: RSS/Atom feed reader for text terminals
+  licenses:
+    - MIT
 - repo: fedora_43
   subrepo: release
   srcname: newsboat
@@ -1027,15 +1008,46 @@
   origversion: null
   status: newest
   summary: RSS/Atom feed reader for text terminals
-- repo: pclinuxos
-  srcname: newsboat
-  visiblename: newsboat
-  version: "2.44"
-  origversion: 2.44-1pclos2026
-  status: outdated
-  summary: RSS/Atom Feed Reader for Text Terminals
+- repo: liguros_develop
+  srcname: net-news/newsboat
+  visiblename: net-news/newsboat
+  version: 2.45.1
+  origversion: null
+  status: newest
+  summary: An RSS/Atom feed reader for text terminals
+  maintainers:
+    - dev@liguros.net
+    - cedk@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - Unlicense
   categories:
-    - Networking/News
+    - net-news
+- repo: liguros_develop
+  srcname: net-news/newsboat
+  visiblename: net-news/newsboat
+  version: "2.45"
+  origversion: null
+  status: legacy
+  summary: An RSS/Atom feed reader for text terminals
+  maintainers:
+    - dev@liguros.net
+    - cedk@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - Unlicense
+  categories:
+    - net-news
 - repo: macports
   srcname: net/newsboat
   binname: newsboat
@@ -1071,6 +1083,41 @@
   origversion: 2.45.1-1
   status: newest
   summary: RSS/Atom feed reader for text terminals
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: 2.45.1-1
+  status: newest
+  summary: RSS/Atom feed reader for text terminals
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: newsboat
+  visiblename: newsboat
+  version: "2.35"
+  origversion: null
+  status: outdated
+  summary: A fork of Newsbeuter, an RSS/Atom feed reader for the text console
+  maintainers:
+    - rschuetz17@gmail.com
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: newsboat
+  visiblename: newsboat
+  version: "2.37"
+  origversion: null
+  status: outdated
+  summary: Fork of Newsbeuter, an RSS/Atom feed reader for the text console
+  maintainers:
+    - rschuetz17@gmail.com
+    - nixpkgs@nicknovitski.com
   licenses:
     - MIT
 - repo: nix_stable_25_05
@@ -1121,6 +1168,29 @@
     - nixpkgs@nicknovitski.com
   licenses:
     - MIT
+- repo: t2
+  srcname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: null
+  status: newest
+  summary: An RSS feedreader for text terminals
+  maintainers:
+    - koen@vervloesem.eu
+  licenses:
+    - MIT
+  categories:
+    - extra/tool
+- repo: termux
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: null
+  status: newest
+  summary: RSS/Atom feed reader for the text console
+  maintainers:
+    - termux@github
 - repo: openbsd
   srcname: www/newsboat
   binname: newsboat
@@ -1174,43 +1244,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: 2.45.1-1
-  status: newest
-  summary: RSS/Atom feed reader for text terminals
-  licenses:
-    - MIT
-- repo: pardus_21
-  subrepo: main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.21"
-  origversion: 2.21-1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.36"
-  origversion: 2.36-1.1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
 - repo: pureos_amber
   subrepo: amber/main
   srcname: newsboat
@@ -1327,39 +1360,6 @@
     - MIT
   categories:
     - debug
-- repo: starkos
-  subrepo: extra
-  srcname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: 2.45.1-1
-  status: newest
-  summary: An RSS/Atom feed reader for text terminals
-  maintainers:
-    - starkos@disroot.org
-- repo: t2
-  srcname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: null
-  status: newest
-  summary: An RSS feedreader for text terminals
-  maintainers:
-    - koen@vervloesem.eu
-  licenses:
-    - MIT
-  categories:
-    - extra/tool
-- repo: termux
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: null
-  status: newest
-  summary: RSS/Atom feed reader for the text console
-  maintainers:
-    - termux@github
 - repo: ubuntu_18_04
   subrepo: bionic/universe
   srcname: newsboat
@@ -1496,6 +1496,16 @@
   summary: RSS/Atom feed reader for text terminals
   licenses:
     - MIT License
+- repo: pclinuxos
+  srcname: newsbeuter
+  visiblename: newsbeuter
+  version: "2.9"
+  origversion: 2.9-1pclos2020
+  status: legacy
+  summary: Configurable text-based feed reader
+  categories:
+    - Networking/News
+  vulnerable: true
 - repo: deepin_unstable
   subrepo: main
   srcname: newsbeuter
@@ -1571,16 +1581,6 @@
     - MIT
   categories:
     - Unspecified
-  vulnerable: true
-- repo: pclinuxos
-  srcname: newsbeuter
-  visiblename: newsbeuter
-  version: "2.9"
-  origversion: 2.9-1pclos2020
-  status: legacy
-  summary: Configurable text-based feed reader
-  categories:
-    - Networking/News
   vulnerable: true
 - repo: fedora_43
   subrepo: release
