@@ -42,16 +42,16 @@ Total: **111,188** lines of code across **428** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 12 | 5 | 3 | 2 | 15 |
-| last60d | 2026-09-13 | 0 | 24 | 5 | 4 | 5 | 33 |
-| 90d | 2026-08-14 | 0 | 34 | 11 | 4 | 6 | 52 |
-| last180d | 2026-05-16 | 0 | 78 | 13 | 11 | 18 | 128 |
-| 360d | 2025-11-17 | 0 | 155 | 16 | 38 | 28 | 247 |
-| last720d | 2024-11-22 | 0 | 358 | 20 | 68 | 63 | 979 |
+| 30d | 2026-10-14 | 0 | 12 | 5 | 3 | 2 | 15 |
+| last60d | 2026-09-14 | 0 | 23 | 5 | 4 | 5 | 33 |
+| 90d | 2026-08-15 | 0 | 33 | 11 | 4 | 6 | 52 |
+| last180d | 2026-05-17 | 0 | 78 | 13 | 11 | 17 | 128 |
+| 360d | 2025-11-18 | 0 | 155 | 16 | 38 | 28 | 247 |
+| last720d | 2024-11-23 | 0 | 357 | 20 | 68 | 63 | 977 |
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/newsboat). **20** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/newsboat). **22** are ✅ on the latest upstream release, **89** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -60,9 +60,9 @@ Reported by **132** distros on [repology.org](https://repology.org/project/newsb
 | Debian 13 | `2.36` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
 | Arch | `2.45.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.45.1` | ✅ latest |
 | Fedora rawhide | `2.45.1` | ✅ latest |
-| Nix unstable | `2.45` | ⚠️ outdated |
+| Nix unstable | `2.45.1` | ✅ latest |
 | Void | `2.45.1` | ✅ latest |
 | Alpine edge | `2.45` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.45` | ⚠️ outdated |
@@ -76,4 +76,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:13:46Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:41:48Z._
