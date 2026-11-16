@@ -32,22 +32,22 @@ Total: **111,221** lines of code across **428** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,941 · **Forks**: 252 · **Open issues**: 1,317 · **Contributors**: 207
+- **Stars**: 3,943 · **Forks**: 252 · **Open issues**: 1,317 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1903 · **Open PRs**: 21 · **Closed issues**: 925 · **Open issues**: 392 · **Commits**: 9051
+- **Releases**: 0 · **Merged PRs**: 1904 · **Open PRs**: 21 · **Closed issues**: 925 · **Open issues**: 392 · **Commits**: 9053
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 14 | 2 | 3 | 2 | 13 |
-| last60d | 2026-09-16 | 0 | 26 | 2 | 4 | 5 | 28 |
-| 90d | 2026-08-17 | 0 | 36 | 8 | 4 | 6 | 52 |
-| last180d | 2026-05-19 | 0 | 80 | 10 | 11 | 16 | 120 |
-| 360d | 2025-11-20 | 0 | 158 | 13 | 37 | 28 | 250 |
-| last720d | 2024-11-25 | 0 | 358 | 17 | 67 | 62 | 981 |
+| 30d | 2026-10-17 | 0 | 13 | 2 | 2 | 2 | 14 |
+| last60d | 2026-09-17 | 0 | 27 | 2 | 4 | 5 | 29 |
+| 90d | 2026-08-18 | 0 | 36 | 7 | 4 | 6 | 53 |
+| last180d | 2026-05-20 | 0 | 81 | 10 | 11 | 16 | 121 |
+| 360d | 2025-11-21 | 0 | 157 | 13 | 37 | 28 | 251 |
+| last720d | 2024-11-26 | 0 | 359 | 17 | 67 | 62 | 979 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:27:18Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:12:34Z._
