@@ -1,3 +1,37 @@
+- repo: raspbian_testing
+  subrepo: main
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.44"
+  origversion: 2.44-1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - misc
+- repo: slackbuilds
+  srcname: network/newsboat
+  visiblename: network/newsboat
+  version: "2.45"
+  origversion: null
+  status: outdated
+  maintainers:
+    - andrew.clemons@gmail.com
+  categories:
+    - network
+- repo: artix
+  subrepo: world
+  srcname: newsboat
+  binname: newsboat
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: 2.45.1-1
+  status: newest
+  summary: RSS/Atom feed reader for text terminals
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: newsboat
@@ -467,17 +501,6 @@
     - polyzen@aur
   licenses:
     - MIT
-- repo: artix
-  subrepo: world
-  srcname: newsboat
-  binname: newsboat
-  visiblename: newsboat
-  version: 2.45.1
-  origversion: 2.45.1-1
-  status: newest
-  summary: RSS/Atom feed reader for text terminals
-  licenses:
-    - MIT
 - repo: chromebrew
   srcname: newsboat
   visiblename: newsboat
@@ -623,22 +646,6 @@
   categories:
     - net
 - repo: fedora_39
-  subrepo: release
-  srcname: newsboat
-  binnames:
-    - newsboat
-    - newsboat-debuginfo
-    - newsboat-debugsource
-  visiblename: newsboat
-  version: "2.32"
-  origversion: 2.32-2.fc39
-  status: legacy
-  summary: RSS/Atom feed reader for the text console
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: updates
   srcname: newsboat
   binnames:
@@ -649,6 +656,22 @@
   version: "2.37"
   origversion: 2.37-1.fc39
   status: outdated
+  summary: RSS/Atom feed reader for the text console
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: newsboat
+  binnames:
+    - newsboat
+    - newsboat-debuginfo
+    - newsboat-debugsource
+  visiblename: newsboat
+  version: "2.32"
+  origversion: 2.32-2.fc39
+  status: legacy
   summary: RSS/Atom feed reader for the text console
   licenses:
     - MIT
@@ -687,22 +710,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: updates
-  srcname: newsboat
-  binnames:
-    - newsboat
-    - newsboat-debuginfo
-    - newsboat-debugsource
-  visiblename: newsboat
-  version: "2.38"
-  origversion: 2.38-1.fc41
-  status: outdated
-  summary: RSS/Atom feed reader for the text console
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: release
   srcname: newsboat
   binnames:
@@ -713,6 +720,22 @@
   version: "2.37"
   origversion: 2.37-1.fc41
   status: legacy
+  summary: RSS/Atom feed reader for the text console
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: newsboat
+  binnames:
+    - newsboat
+    - newsboat-debuginfo
+    - newsboat-debugsource
+  visiblename: newsboat
+  version: "2.38"
+  origversion: 2.38-1.fc41
+  status: outdated
   summary: RSS/Atom feed reader for the text console
   licenses:
     - MIT
@@ -764,6 +787,22 @@
   categories:
     - net
 - repo: fedora_43
+  subrepo: updates
+  srcname: newsboat
+  binnames:
+    - newsboat
+    - newsboat-debuginfo
+    - newsboat-debugsource
+  visiblename: newsboat
+  version: 2.45.1
+  origversion: 2.45.1-1.fc43
+  status: newest
+  summary: RSS/Atom feed reader for the text console
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
   subrepo: release
   srcname: newsboat
   binnames:
@@ -779,7 +818,7 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_43
+- repo: fedora_44
   subrepo: updates
   srcname: newsboat
   binnames:
@@ -787,9 +826,9 @@
     - newsboat-debuginfo
     - newsboat-debugsource
   visiblename: newsboat
-  version: "2.45"
-  origversion: 2.45-1.fc43
-  status: outdated
+  version: 2.45.1
+  origversion: 2.45.1-1.fc44
+  status: newest
   summary: RSS/Atom feed reader for the text console
   licenses:
     - MIT
@@ -806,22 +845,6 @@
   version: "2.43"
   origversion: 2.43-1.fc44
   status: legacy
-  summary: RSS/Atom feed reader for the text console
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_44
-  subrepo: updates
-  srcname: newsboat
-  binnames:
-    - newsboat
-    - newsboat-debuginfo
-    - newsboat-debugsource
-  visiblename: newsboat
-  version: "2.45"
-  origversion: 2.45-1.fc44
-  status: outdated
   summary: RSS/Atom feed reader for the text console
   licenses:
     - MIT
@@ -1213,32 +1236,6 @@
     - nikos@tsipinakis.com
   categories:
     - universe/misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.36"
-  origversion: 2.36-1.1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.36"
-  origversion: 2.36-1.2
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - universe/misc
 - repo: openbsd
   srcname: www/newsboat
   binname: newsboat
@@ -1317,7 +1314,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: newsboat
   binnames:
     - newsboat
@@ -1330,7 +1327,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: newsboat
   binnames:
     - newsboat
@@ -1434,6 +1431,32 @@
   summary: RSS/Atom feed reader for the text console
   maintainers:
     - termux@github
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.36"
+  origversion: 2.36-1.1
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: newsboat
+  binnames:
+    - newsboat
+  visiblename: newsboat
+  version: "2.36"
+  origversion: 2.36-1.2
+  status: outdated
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - universe/misc
 - repo: ubuntu_26_04
   subrepo: resolute/universe
   srcname: newsboat
@@ -1505,29 +1528,6 @@
   summary: RSS/Atom feed reader for text terminals
   licenses:
     - MIT License
-- repo: raspbian_testing
-  subrepo: main
-  srcname: newsboat
-  binnames:
-    - newsboat
-  visiblename: newsboat
-  version: "2.44"
-  origversion: 2.44-1
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - misc
-- repo: slackbuilds
-  srcname: network/newsboat
-  visiblename: network/newsboat
-  version: "2.45"
-  origversion: null
-  status: outdated
-  maintainers:
-    - andrew.clemons@gmail.com
-  categories:
-    - network
 - repo: salix_14_2
   srcname: newsbeuter
   visiblename: newsbeuter
@@ -1535,6 +1535,20 @@
   origversion: null
   status: outdated
   summary: newsbeuter (An RSS feed reader for the text console)
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: newsbeuter
+  binnames:
+    - newsbeuter
+  visiblename: newsbeuter
+  version: "2.9"
+  origversion: 2.9-7
+  status: legacy
+  maintainers:
+    - nikos@tsipinakis.com
+  categories:
+    - universe/net
   vulnerable: true
 - repo: deepin_unstable
   subrepo: main
@@ -1612,6 +1626,20 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: newsbeuter
+  binnames:
+    - newsbeuter
+  visiblename: newsbeuter
+  version: "2.7"
+  origversion: 2.7-1
+  status: outdated
+  maintainers:
+    - nion@debian.org
+  categories:
+    - universe/net
+  vulnerable: true
 - repo: fedora_43
   subrepo: release
   srcname: newsbeuter
@@ -1637,34 +1665,6 @@
   licenses:
     - MIT/X License
   vulnerable: true
-- repo: ubuntu_14_04
-  subrepo: trusty/universe
-  srcname: newsbeuter
-  binnames:
-    - newsbeuter
-  visiblename: newsbeuter
-  version: "2.7"
-  origversion: 2.7-1
-  status: outdated
-  maintainers:
-    - nion@debian.org
-  categories:
-    - universe/net
-  vulnerable: true
-- repo: ubuntu_16_04
-  subrepo: xenial/universe
-  srcname: newsbeuter
-  binnames:
-    - newsbeuter
-  visiblename: newsbeuter
-  version: "2.9"
-  origversion: 2.9-3
-  status: outdated
-  maintainers:
-    - nikos@tsipinakis.com
-  categories:
-    - universe/net
-  vulnerable: true
 - repo: ubuntu_16_04
   subrepo: xenial-updates/universe
   srcname: newsbeuter
@@ -1679,15 +1679,15 @@
   categories:
     - universe/net
   vulnerable: true
-- repo: ubuntu_18_04
-  subrepo: bionic/universe
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
   srcname: newsbeuter
   binnames:
     - newsbeuter
   visiblename: newsbeuter
   version: "2.9"
-  origversion: 2.9-7
-  status: legacy
+  origversion: 2.9-3
+  status: outdated
   maintainers:
     - nikos@tsipinakis.com
   categories:
