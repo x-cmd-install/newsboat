@@ -42,40 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,951 · **Forks**: 254 · **Open issues**: 1,317 · **Contributors**: 207
+- **Stars**: 3,952 · **Forks**: 254 · **Open issues**: 1,318 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1907 · **Open PRs**: 20 · **Closed issues**: 925 · **Open issues**: 392 · **Commits**: 9061
+- **Releases**: 0 · **Merged PRs**: 1907 · **Open PRs**: 21 · **Closed issues**: 925 · **Open issues**: 393 · **Commits**: 9061
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 13 | 1 | 2 | 2 | 16 |
-| last60d | 2026-09-25 | 0 | 24 | 1 | 4 | 3 | 31 |
-| 90d | 2026-08-26 | 0 | 37 | 6 | 4 | 6 | 57 |
-| last180d | 2026-05-28 | 0 | 81 | 9 | 9 | 14 | 116 |
-| 360d | 2025-11-29 | 0 | 160 | 11 | 37 | 28 | 255 |
-| last720d | 2024-12-04 | 0 | 358 | 16 | 66 | 61 | 981 |
-
-## Distribution status
-
-Reported by **132** distros on [repology.org](https://repology.org/project/newsboat). **27** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.44` | ⚠️ outdated |
-| Debian 14 | `2.44` | ⚠️ outdated |
-| Debian 13 | `2.36` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
-| Arch | `2.45.1` | ✅ latest |
-| Homebrew | `2.45.1` | ✅ latest |
-| Fedora rawhide | `2.45.1` | ✅ latest |
-| Nix unstable | `2.45.1` | ✅ latest |
-| Void | `2.45.1` | ✅ latest |
-| Alpine edge | `2.45` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.45.1` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 13 | 2 | 2 | 3 | 16 |
+| last60d | 2026-09-26 | 0 | 23 | 2 | 4 | 4 | 31 |
+| 90d | 2026-08-27 | 0 | 37 | 7 | 4 | 7 | 57 |
+| last180d | 2026-05-29 | 0 | 81 | 10 | 9 | 15 | 116 |
+| 360d | 2025-11-30 | 0 | 160 | 12 | 37 | 28 | 255 |
+| last720d | 2024-12-05 | 0 | 358 | 17 | 66 | 62 | 981 |
 
 ## Improve this data
 
@@ -86,4 +68,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:39:25Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:34:35Z._
