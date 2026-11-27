@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,953 · **Forks**: 254 · **Open issues**: 1,318 · **Contributors**: 207
+- **Stars**: 3,954 · **Forks**: 254 · **Open issues**: 1,318 · **Contributors**: 207
 
 ## Totals (cumulative)
 
@@ -52,12 +52,30 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 13 | 2 | 1 | 3 | 16 |
-| last60d | 2026-09-27 | 0 | 23 | 2 | 4 | 4 | 31 |
-| 90d | 2026-08-28 | 0 | 37 | 7 | 4 | 7 | 57 |
-| last180d | 2026-05-30 | 0 | 81 | 10 | 9 | 15 | 116 |
-| 360d | 2025-12-01 | 0 | 160 | 12 | 37 | 27 | 255 |
-| last720d | 2024-12-06 | 0 | 358 | 17 | 66 | 62 | 981 |
+| 30d | 2026-10-28 | 0 | 13 | 2 | 1 | 3 | 16 |
+| last60d | 2026-09-28 | 0 | 23 | 2 | 4 | 4 | 31 |
+| 90d | 2026-08-29 | 0 | 36 | 7 | 4 | 7 | 57 |
+| last180d | 2026-05-31 | 0 | 79 | 10 | 9 | 14 | 116 |
+| 360d | 2025-12-02 | 0 | 160 | 12 | 37 | 27 | 255 |
+| last720d | 2024-12-07 | 0 | 356 | 17 | 66 | 62 | 981 |
+
+## Distribution status
+
+Reported by **130** distros on [repology.org](https://repology.org/project/newsboat). **27** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.44` | ⚠️ outdated |
+| Debian 14 | `2.44` | ⚠️ outdated |
+| Debian 13 | `2.36` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
+| Arch | `2.45.1` | ✅ latest |
+| Homebrew | `2.45.1` | ✅ latest |
+| Fedora rawhide | `2.45.1` | ✅ latest |
+| Nix unstable | `2.45.1` | ✅ latest |
+| Void | `2.45.1` | ✅ latest |
+| Alpine edge | `2.45` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.45.1` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +86,4 @@ Install metadata for newsboat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:34:30Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:30:41Z._

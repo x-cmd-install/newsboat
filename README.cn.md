@@ -42,7 +42,7 @@ x install newsboat
 
 ## 流行度
 
-- **Star**: 3,953 · **Fork**: 254 · **开放 issue**: 1,318 · **贡献者**: 207
+- **Star**: 3,954 · **Fork**: 254 · **开放 issue**: 1,318 · **贡献者**: 207
 
 ## 累计统计
 
@@ -52,12 +52,30 @@ x install newsboat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 13 | 2 | 1 | 3 | 16 |
-| last60d | 2026-09-27 | 0 | 23 | 2 | 4 | 4 | 31 |
-| 90d | 2026-08-28 | 0 | 37 | 7 | 4 | 7 | 57 |
-| last180d | 2026-05-30 | 0 | 81 | 10 | 9 | 15 | 116 |
-| 360d | 2025-12-01 | 0 | 160 | 12 | 37 | 27 | 255 |
-| last720d | 2024-12-06 | 0 | 358 | 17 | 66 | 62 | 981 |
+| 30d | 2026-10-28 | 0 | 13 | 2 | 1 | 3 | 16 |
+| last60d | 2026-09-28 | 0 | 23 | 2 | 4 | 4 | 31 |
+| 90d | 2026-08-29 | 0 | 36 | 7 | 4 | 7 | 57 |
+| last180d | 2026-05-31 | 0 | 79 | 10 | 9 | 14 | 116 |
+| 360d | 2025-12-02 | 0 | 160 | 12 | 37 | 27 | 255 |
+| last720d | 2024-12-07 | 0 | 356 | 17 | 66 | 62 | 981 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/newsboat) 上共有 **130** 个发行版报告此项目。**27** 个 ✅ 已是最新上游版本，**83** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.44` | ⚠️ outdated |
+| Debian 14 | `2.44` | ⚠️ outdated |
+| Debian 13 | `2.36` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.38` | ⚠️ outdated |
+| Arch | `2.45.1` | ✅ latest |
+| Homebrew | `2.45.1` | ✅ latest |
+| Fedora rawhide | `2.45.1` | ✅ latest |
+| Nix unstable | `2.45.1` | ✅ latest |
+| Void | `2.45.1` | ✅ latest |
+| Alpine edge | `2.45` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.45.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -68,4 +86,4 @@ newsboat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T09:34:31Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:30:42Z._
